@@ -13,13 +13,8 @@
 .col {
   flex: 1;
   padding: 20px;
-  background-color: #f2f2f2;
-  border: 1px solid #ddd;
-  text-align: center;
-  font-size: 1.2rem;
 }
 
-/* Định nghĩa kích thước cột */
 .col-1 {
   flex: 0 0 calc(8.33% - var(--gap-size));
 }
