@@ -5,14 +5,14 @@
 
 @font-face {
   font-family: "Lora";
-  src: url("/assets/fonts/static/Lora-VariableFont_wght.ttf") format("truetype");
+  src: url("./assets/fonts/static/Lora-VariableFont_wght.ttf") format("truetype");
   font-weight: 100 900;
   font-style: normal;
 }
 
 @font-face {
   font-family: "Lora";
-  src: url("/assets/fonts/static/Lora-Italic-VariableFont_wght.ttf") format("truetype");
+  src: url("./assets/fonts/static/Lora-Italic-VariableFont_wght.ttf") format("truetype");
   font-weight: 100 900;
   font-style: italic;
 }
